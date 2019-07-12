@@ -1,0 +1,6 @@
+{
+  "tenants": {
+    "f03a0a74-1e15-482d-b0c8-916d98351f92": "tenant-a",
+    "5f78d360-5df0-4e74-b66c-95eef7d787db": "tenant-b"
+  }
+}
